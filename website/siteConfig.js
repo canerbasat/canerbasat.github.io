@@ -20,17 +20,19 @@ const users = [
   },
 ];
 
+
+
 const siteConfig = {
   title: 'Caner BASAT', // Title for your website.
-  tagline: 'A website for testing',
-  url: 'https://canerbasat.github.io', // Your website URL
-  baseUrl: '/canerbasat', // Base URL for your project */
+  tagline: 'Caner Basat',
+  url: 'https://caner.basat.com', // Your website URL
+  baseUrl: '/', // Base URL for your project */
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'canerbasat',
+  projectName: 'test-site',
   organizationName: 'canerbasat',
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
@@ -40,9 +42,10 @@ const siteConfig = {
   // LINKLERE BAGLI MD DOSYALARI
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    {doc: 'doc1', label: 'Dökümanlar'},
-    //{page: 'help', label: 'Help'},
-   {blog: true, label: 'Blog'},
+  //{doc: 'doc1', label: 'Dökümanlar'},
+  {blog: true, label: 'Blog'}, 
+  //{page: 'hakkimda', label: 'Hakkımda'},
+  
    
   ],
 
@@ -51,7 +54,7 @@ const siteConfig = {
 
   /* path to images for header/footer */
   headerIcon: 'img/blogTTT.png',
-  footerIcon: 'img/robocop.png',
+  footerIcon: 'img/docusaurus.svg',
   favicon: 'img/robocop.png',
 
   /* Colors for website */
@@ -60,11 +63,16 @@ const siteConfig = {
     secondaryColor: '#205C3B',
   },
 
+  blogSidebarCount: 'ALL',
 
 
 
-
-
+  scripts: [
+    'https://buttons.github.io/buttons.js',
+    'https://cdnjs.cloudflare.com/ajax/libs/clipboard.js/2.0.0/clipboard.min.js',
+    '/js/code-block-buttons.js',
+  ],
+  stylesheets: ['/css/code-block-buttons.css'],
   
 
   /* Custom fonts for website */
@@ -91,6 +99,7 @@ const siteConfig = {
 
   // Add custom scripts here that would be placed in <script> tags.
   scripts: ['https://buttons.github.io/buttons.js'],
+  
 
   // On page navigation for the current documentation page.
   onPageNav: 'separate',
@@ -110,6 +119,9 @@ const siteConfig = {
   // You may provide arbitrary config keys to be used as needed by your
   // template. For example, if you need your repo's URL...
   //   repoUrl: 'https://github.com/facebook/test-site',
+  
 };
 
 module.exports = siteConfig;
+
+

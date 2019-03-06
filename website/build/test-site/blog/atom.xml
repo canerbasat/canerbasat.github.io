@@ -1,41 +1,65 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://your-docusaurus-test-site.com/blog</id>
+    <id>https://caner.basat.com/blog</id>
     <title>Caner BASAT Blog</title>
-    <updated>2017-10-24T06:00:00Z</updated>
+    <updated>2019-03-02T06:00:00Z</updated>
     <generator>Feed for Node.js</generator>
-    <link rel="alternate" href="https://your-docusaurus-test-site.com/blog"/>
+    <link rel="alternate" href="https://caner.basat.com/blog"/>
     <subtitle>The best place to stay up-to-date with the latest Caner BASAT news and events.</subtitle>
-    <logo>https://your-docusaurus-test-site.com/img/blogTTT.png</logo>
+    <logo>https://caner.basat.com/img/blogTTT.png</logo>
     <rights>Copyright © 2019 Caner BAŞAT</rights>
     <entry>
-        <title type="html"><![CDATA[New Version 1.0.0]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/2017/10/24/new-version-1.0.0.html</id>
-        <link href="https://your-docusaurus-test-site.com/blog/2017/10/24/new-version-1.0.0.html">
+        <title type="html"><![CDATA[Selenium-Grid Nedir?]]></title>
+        <id>https://caner.basat.com/blog/2019/03/02/blog-Deneme.html</id>
+        <link href="https://caner.basat.com/blog/2019/03/02/blog-Deneme.html">
+        </link>
+        <updated>2019-03-02T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p> ]]></summary>
+        <author>
+            <name>Caner Basat</name>
+            <uri>http://medium.com/@canerbasat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[C# ile Selenium Webdriver Başlangıç]]></title>
+        <id>https://caner.basat.com/blog/2018/10/24/deneme.html</id>
+        <link href="https://caner.basat.com/blog/2018/10/24/deneme.html">
+        </link>
+        <updated>2018-10-24T06:00:00Z</updated>
+        <summary type="html"><![CDATA[<pre><code class="hljs css language-java">console.log(<span class="hljs-string">'Hello, world!'</span>); </code></pre> <p>This blog post will test file name parsing issues when periods are present.</p> ]]></summary>
+        <author>
+            <name>Caner Basat</name>
+            <uri>http://medium.com/@canerbasat</uri>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Selenium Kullanarak Resim Kaydetmek]]></title>
+        <id>https://caner.basat.com/blog/2017/10/24/new-version-1.0.0.html</id>
+        <link href="https://caner.basat.com/blog/2017/10/24/new-version-1.0.0.html">
         </link>
         <updated>2017-10-24T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>This blog post will test file name parsing issues when periods are present.</p> ]]></summary>
         <author>
-            <name>Eric Nakagawa</name>
-            <uri>http://twitter.com/ericnakagawa</uri>
+            <name>Caner Basat</name>
+            <uri>http://medium.com/@canerbasat</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding RSS Support]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/2017/09/26/adding-rss.html</id>
-        <link href="https://your-docusaurus-test-site.com/blog/2017/09/26/adding-rss.html">
+        <title type="html"><![CDATA[Selenium Nedir & Selenium IDE]]></title>
+        <id>https://caner.basat.com/blog/2017/09/26/adding-rss.html</id>
+        <link href="https://caner.basat.com/blog/2017/09/26/adding-rss.html">
         </link>
         <updated>2017-09-26T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>This is a test post.</p> <p>A whole bunch of other information.</p> ]]></summary>
+        <summary type="html"><![CDATA[<p>Selenium bir test otomasyon aracıdır. Uzun vadede kullanıldığında iş yükünden kurtarır verimliliği arttırır. Eğer koşacağımız testler kompleks testler ise manuel test daha verimli olur. Otomasyonun en temel amaçlarından birisi sürekliliği olan fonksi...</p>]]></summary>
         <author>
-            <name>Eric Nakagawa</name>
-            <uri>http://twitter.com/ericnakagawa</uri>
+            <name>Caner Basat</name>
+            <uri>http://medium.com/@canerbasat</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Adding RSS Support - RSS Truncation Test]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/2017/09/25/testing-rss.html</id>
-        <link href="https://your-docusaurus-test-site.com/blog/2017/09/25/testing-rss.html">
+        <title type="html"><![CDATA[Selenium JavascriptExecutor Kullanımı]]></title>
+        <id>https://caner.basat.com/blog/2017/09/25/testing-rss.html</id>
+        <link href="https://caner.basat.com/blog/2017/09/25/testing-rss.html">
         </link>
         <updated>2017-09-25T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>1234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890</p>
@@ -48,24 +72,26 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Selenium Ekran Görüntüsü Alma]]></title>
-        <id>https://your-docusaurus-test-site.com/blog/2017/04/10/blog-post-two.html</id>
-        <link href="https://your-docusaurus-test-site.com/blog/2017/04/10/blog-post-two.html">
+        <id>https://caner.basat.com/blog/2017/04/10/blog-post-two.html</id>
+        <link href="https://caner.basat.com/blog/2017/04/10/blog-post-two.html">
         </link>
         <updated>2017-04-10T06:00:00Z</updated>
         <summary type="html"><![CDATA[<p>Deneme</p> ]]></summary>
         <author>
-            <name>Blog Author</name>
-            <uri>http://twitter.com/canerbasat</uri>
+            <name>Caner Basat</name>
+            <uri>http://medium.com/@canerbasat</uri>
         </author>
     </entry>
     <entry>
-        <title type="html"/>
-        <id>https://your-docusaurus-test-site.com/blog/2016/03/11/blog-post.html</id>
-        <link href="https://your-docusaurus-test-site.com/blog/2016/03/11/blog-post.html">
+        <title type="html"><![CDATA[Headless Chrome Kullanımı]]></title>
+        <id>https://caner.basat.com/blog/2016/03/11/blog-post.html</id>
+        <link href="https://caner.basat.com/blog/2016/03/11/blog-post.html">
         </link>
         <updated>2016-03-11T06:00:00Z</updated>
-        <summary type="html"><![CDATA[<p>Deneme</p> ]]></summary>
+        <summary type="html"><![CDATA[<p>sss</p> ]]></summary>
         <author>
+            <name>Caner Basat</name>
+            <uri>http://medium.com/@canerbasat</uri>
         </author>
     </entry>
 </feed>

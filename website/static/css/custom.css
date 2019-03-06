@@ -126,7 +126,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', end
     margin: 0;
     padding: 10px;
     transition: background-color 0.3s;
-    background-color: #5579debf;
+  
 }
 
 .fixedHeaderContainer header {
@@ -141,3 +141,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', end
 }
 
 
+.toc .toggleNav .navGroup .navGroupCategoryTitle {
+    color: #393939;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.2em;
+    margin-bottom: 8px;
+    margin-top: 0;
+}

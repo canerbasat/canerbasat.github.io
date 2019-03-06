@@ -42,14 +42,14 @@ class Footer extends React.Component {
        
 
 
-        <div class="sharethis-inline-follow-buttons"></div>
+        <div class="sharethis-inline-follow-buttons" ></div>
 
 
         <section className="copyright">{this.props.config.copyright}
         <div>
         <head className="postHeader">
         <script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#property=5c77cdccdf6421001143afce&product=inline-follow-buttons' async='async'></script>  
-      
+
             </head>
         
             </div>

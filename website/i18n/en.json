@@ -3,7 +3,7 @@
   "localized-strings": {
     "next": "Next",
     "previous": "Previous",
-    "tagline": "A website for testing",
+    "tagline": "Caner Basat",
     "docs": {
       "doc1": {
         "title": "Latin-ish",
@@ -20,10 +20,13 @@
       },
       "doc5": {
         "title": "Fifth Document"
+      },
+      "SeleniumOtomasyon": {
+        "title": "Latin-ish",
+        "sidebar_label": "Example Page"
       }
     },
     "links": {
-      "Dökümanlar": "Dökümanlar",
       "Blog": "Blog"
     },
     "categories": {

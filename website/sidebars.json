@@ -1,6 +1,6 @@
 {
   "docs": {
-    "Test Otomasyon": ["doc1","doc2","doc3","doc4"],
+    "Test Otomasyon" :["doc1","doc2","doc3"],
     "Temel Java": ["doc2"],
     "Diğer": ["doc3"]
   },

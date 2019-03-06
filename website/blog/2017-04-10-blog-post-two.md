@@ -1,8 +1,8 @@
 ---
 title: Selenium Ekran Görüntüsü Alma
-author: Blog Author
-authorURL: http://twitter.com/canerbasat
-authorFBID: 100002976521003
+author: Caner Basat
+authorURL: http://medium.com/@canerbasat
+authorFBID: 1045077415
 ---
 
 Deneme
