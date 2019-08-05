@@ -9,6 +9,7 @@
 // site configuration options.
 
 // List of projects/orgs using your project for the users page.
+
 const users = [
   {
     caption: 'User1',
@@ -19,6 +20,10 @@ const users = [
     pinned: true,
   },
 ];
+
+const docs ={
+  docsSideNavCollapsible: true
+}
 
 
 
@@ -42,18 +47,32 @@ const siteConfig = {
   // LINKLERE BAGLI MD DOSYALARI
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-  //{doc: 'doc1', label: 'Dökümanlar'},
-  {blog: true, label: 'Blog'}, 
-  //{page: 'hakkimda', label: 'Hakkımda'},
+  {doc: 'selenium-nedir-selenium-ide', label: 'Dökümanlarım'},
   
-   
+  {blog: true, label: 'Faydalı Yazılar'}, 
+  //  {page: 'hakkimda', label: 'Hakkımda'},
+
+  
   ],
+
+//BLog sayfasında kategori basligi
+  blogSidebarTitle: { default: 'Başa dön', all: 'Faydalı Yazılar' },
+
+  //Blog sayfasında gostermek istedigimiz yazı limiti
+  blogSidebarCount: 'ALL',
+  
+  onPageNav: 'separate',
+
+  //Dokumanlar sayfasında kategorileri katlanabilir hale getirir
+  docsSideNavCollapsible: false,
+
+
 
   // If you have users set above, you add it here:
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/blogTTT.png',
+  headerIcon: 'img/blogTT.png',
   footerIcon: 'img/docusaurus.svg',
   favicon: 'img/robocop.png',
 
@@ -62,8 +81,6 @@ const siteConfig = {
     primaryColor: '#5b1819',
     secondaryColor: '#205C3B',
   },
-
-  blogSidebarCount: 'ALL',
 
 
 
@@ -120,8 +137,11 @@ const siteConfig = {
   // template. For example, if you need your repo's URL...
   //   repoUrl: 'https://github.com/facebook/test-site',
   
-};
 
+
+  
+};
+module.exports =docs;
 module.exports = siteConfig;
 
 

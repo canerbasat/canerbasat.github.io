@@ -5,35 +5,46 @@
     "previous": "Previous",
     "tagline": "Caner Basat",
     "docs": {
-      "doc1": {
-        "title": "Latin-ish",
-        "sidebar_label": "Example Page"
+      "csharp-ile-webdriver-baslangic": {
+        "title": "C# ile Selenium Webdriver Başlangıç",
+        "sidebar_label": "C# ile Selenium Webdriver Başlangıç"
       },
-      "doc2": {
-        "title": "document number 2"
+      "headless-chrome-kullanimi": {
+        "title": "Headless Chrome Kullanımı",
+        "sidebar_label": "Headless Chrome Kullanımı"
       },
-      "doc3": {
-        "title": "This is document number 3"
+      "if-else-kosul-yapisi": {
+        "title": "İf-Else Koşul Yapısı",
+        "sidebar_label": "İf-Else Koşul Yapısı"
       },
-      "doc4": {
-        "title": "Other Document"
+      "selenium-ekran-goruntusu-alma": {
+        "title": "Selenium Ekran Görüntüsü alma",
+        "sidebar_label": "Selenium Ekran Görüntüsü alma"
       },
-      "doc5": {
-        "title": "Fifth Document"
+      "selenium-grid-nedir": {
+        "title": "Selenium-Grid Nedir?",
+        "sidebar_label": "Selenium-Grid Nedir?"
       },
-      "SeleniumOtomasyon": {
-        "title": "Latin-ish",
-        "sidebar_label": "Example Page"
+      "selenium-javascriptexecutor-kullanimi": {
+        "title": "Selenium JavascriptExecutor Kullanımı",
+        "sidebar_label": "Selenium JavascriptExecutor Kullanımı"
+      },
+      "selenium-kullanarak-resim-kaydetme": {
+        "title": "Selenium Kullanarak Resim Kaydetme",
+        "sidebar_label": "Selenium Kullanarak Resim Kaydetme"
+      },
+      "selenium-nedir-selenium-ide": {
+        "title": "Selenium Nedir & Selenium IDE",
+        "sidebar_label": "Selenium Nedir & Selenium IDE"
       }
     },
     "links": {
-      "Blog": "Blog"
+      "Dökümanlarım": "Dökümanlarım",
+      "Faydalı Yazılar": "Faydalı Yazılar"
     },
     "categories": {
       "Test Otomasyon": "Test Otomasyon",
-      "Temel Java": "Temel Java",
-      "Diğer": "Diğer",
-      "First Category": "First Category"
+      "JAVA": "JAVA"
     }
   },
   "pages-strings": {

@@ -149,3 +149,28 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cedce7', end
     margin-bottom: 8px;
     margin-top: 0;
 }
+
+
+.toc .toggleNav .navGroup .navGroupCategoryTitle {
+    color: #393939;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 1.2em;
+    margin-bottom: 8px;
+    margin-top: 0;
+    text-align: center;
+}
+
+.navigationSlider .slidingNav ul li {
+    flex: 1 1 auto;
+    margin: 0;
+    text-align: center;
+    white-space: nowrap;
+    background: #06416b;
+}
+
+
+.navigationSlider .slidingNav ul li a:focus, .navigationSlider .slidingNav ul li a:hover, .navigationSlider .slidingNav ul li.siteNavItemActive a, .navigationSlider .slidingNav ul li.siteNavGroupActive a {
+    background: #2e7ab1;
+    -webkit-border-radius: 50px;
+}
