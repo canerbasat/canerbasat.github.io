@@ -1,10 +1,16 @@
 {
   "docs": {
-    "Docusaurus": ["doc1"],
-    "First Category": ["doc2"],
-    "Second Category": ["doc3"]
-  },
-  "docs-other": {
-    "First Category": ["doc4", "doc5"]
+    "Test Otomasyon" :
+    ["selenium-nedir-selenium-ide",
+     "csharp-ile-webdriver-baslangic",
+     "selenium-javascriptexecutor-kullanimi",
+     "selenium-kullanarak-resim-kaydetme",
+     "selenium-ekran-goruntusu-alma",
+     "headless-chrome-kullanimi",
+     "selenium-grid-nedir"
+    ],
+    "JAVA":[
+      "if-else-kosul-yapisi"
+    ]
   }
 }
