@@ -13,7 +13,6 @@
 const users = [
   {
     caption: 'User1',
-    projectName ='CanerBasat',
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/docusaurus.svg'.
     image: '/img/docusaurus.svg',
