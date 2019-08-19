@@ -1,8 +1,9 @@
 {
   "docs": {
     "Test Otomasyon" :
-    ["selenium-nedir-selenium-ide",
-     "csharp-ile-webdriver-baslangic",
+    [
+      "csharp-ile-webdriver-baslangic",
+      "selenium-nedir-selenium-ide",
      "selenium-javascriptexecutor-kullanimi",
      "selenium-kullanarak-resim-kaydetme",
      "selenium-ekran-goruntusu-alma",

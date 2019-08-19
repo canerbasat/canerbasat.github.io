@@ -22,7 +22,7 @@ const users = [
 ];
 
 const docs ={
-  docsSideNavCollapsible: true
+  docsSideNavCollapsible: false
 }
 
 
@@ -47,9 +47,11 @@ const siteConfig = {
   // LINKLERE BAGLI MD DOSYALARI
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-  {doc: 'selenium-nedir-selenium-ide', label: 'Dökümanlarım'},
+  {doc: 'csharp-ile-webdriver-baslangic', label: 'Dökümanlarım'},
   
-  {blog: true, label: 'Faydalı Yazılar'}, 
+  {blog: true, label: 'Faydalı Yazılar'},
+  
+  
   //  {page: 'hakkimda', label: 'Hakkımda'},
 
   
@@ -64,7 +66,7 @@ const siteConfig = {
   onPageNav: 'separate',
 
   //Dokumanlar sayfasında kategorileri katlanabilir hale getirir
-  docsSideNavCollapsible: false,
+  docsSideNavCollapsible: true,
 
 
 
