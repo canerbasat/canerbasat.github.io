@@ -64,7 +64,7 @@ const siteConfig = {
   onPageNav: 'separate',
 
   //Dokumanlar sayfasında kategorileri katlanabilir hale getirir
-  docsSideNavCollapsible: false,
+  docsSideNavCollapsible: true,
 
 
 
