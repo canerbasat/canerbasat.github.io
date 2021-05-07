@@ -130,7 +130,7 @@ class Index extends React.Component {
           {
             content:"2018 yılından bu yana , Kalite Güvencesi (QA) alanında test otomasyonu ile uğraşmaktayım. <br></br>"+
 
-          "Şu an Saha Bilgi Teknolojileri firmasında Asistan Test Otomasyon Mühendisi olarak Java ve .NET teknolojileri ile Web ve Mobil test otomasyonları geliştirmekteyim. <br></br>"+
+          "Şu an Rise Teknoloji firmasında Test Lead olarak görev almaktayım. <br></br>"+
             
             "Bu blog sayfasında sizlere yazılım teknolojileri hakkında bildiklerimi mümkün oldukça aktaracağım. <br></br>"+
           "Bu site aynı zamanda sizlerin de yazılarınızı paylaşabileceğiniz bir platform olacaktır. Dolayısıyla, sayfada yazar olmak için benimle iletişime geçebilirsiniz. <br></br>"+
